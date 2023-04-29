@@ -1,4 +1,4 @@
-[![MasterHead](https://retail.newhorizonsnigeria.com.ng/wp-content/uploads/2014/05/Full-Stack-Web.png)](https://rishavchanda.io)
+[![MasterHead](https://aspireinfolabs.com/static/media/blog_cover_7.b10ac410.jpeg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sonali Khose</h1>
 <h3 align="center">A dedicated full-stack web developer with a focus on delivering high-quality solutions and creating intuitive applications that exceed client expectations.</h3>
 <img align="right" alt="Coding" width="400" src="https://e0.pxfuel.com/wallpapers/279/254/desktop-wallpaper-anime-computer-hacker-girl-girl-programmer.jpg">

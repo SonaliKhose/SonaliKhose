@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sonali-khose-981946245" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="sonali-khose-981946245" height="30" width="40" /></a>         <a href="https://hashnode.com/@sonalikhose600" target="blank"><img align="center" src="https://seeklogo.com/images/M/medium-2020-new-logo-4DD1CA1BFF-seeklogo.com.png" alt="@sonalikhose600" height="30" width="40" /></a>   <a href="https://](https://SonaliKhose.github.io/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/004/753/030/original/portfolio-icon-shadowed-detailed-portfolio-logo-free-vector.jpg" alt="SonaliKhose" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sonali-khose-981946245" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="sonali-khose-981946245" height="30" width="40" /></a>         <a href="https://SonaliKhose.github.io/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/004/753/030/original/portfolio-icon-shadowed-detailed-portfolio-logo-free-vector.jpg" alt="SonaliKhose" height="30" width="40" /></a>
 </p>
 
 <hr></hr>

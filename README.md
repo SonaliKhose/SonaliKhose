@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sonalikhose600@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JiegYkU_NCfmi8oaM9CtS3ILjC5rGR7Q/view?usp=share_link](https://drive.google.com/file/d/1JiegYkU_NCfmi8oaM9CtS3ILjC5rGR7Q/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/14Z_2rbANPOld99V7ynJDIKiV8jXN04A9/view?usp=share_link](https://drive.google.com/file/d/14Z_2rbANPOld99V7ynJDIKiV8jXN04A9/view?usp=share_link)
 - 
 
 <hr></hr>

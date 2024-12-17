@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://sunny-crepe-cef876.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://shiny-pixie-ee5f7f.netlify.app/)
 
 - 💬 Ask me about **Javascript, React, Node Js, Express, Mongo DB, Chakra-UI...**
 
 - 📫 How to reach me **sonalikhose600@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14Z_2rbANPOld99V7ynJDIKiV8jXN04A9/view?usp=share_link](https://drive.google.com/file/d/14Z_2rbANPOld99V7ynJDIKiV8jXN04A9/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wIUVcGr5n08oAZ1Rc3BY9DZYV4e7UCZw/view?usp=sharing)
 - 
 
 <hr></hr>
